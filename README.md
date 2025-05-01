@@ -52,4 +52,4 @@ This work is shared under the [MIT License](./LICENSE) — Open to learning, sha
 
 ---
 
-> 🚀 “The best way to predict the future is to create it.” Thanks for stopping by, and let’s learn and build cool stuff together! 💻🌟
+> 🚀 Thanks for stopping by, and let’s learn and build cool stuff together! 💻🌟
