@@ -35,7 +35,7 @@ Here on my GitHub, I:
 
 Right now, I’m focusing on:
 
-- **Python** and **R Programming** for data manipulation and analysis.
+- **Python** and learning soon **R Programming** for data manipulation and analysis.
 - **Machine Learning** — From simple linear regression to fun classification problems.
 - **SQL** for handling data stored in databases (because data doesn’t live in spreadsheets alone!).
 - **Data Visualization** — Making charts and graphs that tell awesome stories.
