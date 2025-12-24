@@ -2,7 +2,7 @@
 
 I’m a **Business Analytics, Data Science** student on a journey to learn **Data Science**, **Machine Learning**, and everything in between! This GitHub is where I share my learning process, projects, and everything that makes me excited about coding.
 
-Let’s break stuff, fix it, and build something amazing — one line of code at a time! 🚀
+Let’s build something amazing! 🚀
 
 ---
 
@@ -28,9 +28,6 @@ Here on my GitHub, I:
 ## 🔬 Projects I’m Working On
 
 - 📊 **Mini Data Challenges** — Playing with public datasets to uncover cool insights!
-- 📈 **Sales Forecasting** — Predicting future sales based on past data (because who doesn’t love predictions?).
-- 🤖 **Churn Prediction** — Using machine learning to figure out which customers might leave.
-- 🧠 **Neural Networks** — Trying out some beginner-level deep learning (it’s like teaching computers to learn on their own!).
 
 ---
 
@@ -42,7 +39,7 @@ Right now, I’m focusing on:
 - **Machine Learning** — From simple linear regression to fun classification problems.
 - **SQL** for handling data stored in databases (because data doesn’t live in spreadsheets alone!).
 - **Data Visualization** — Making charts and graphs that tell awesome stories.
-- **Cloud Tools** like **BigQuery** and **AWS** for working with big data.
+- **Cloud Tools** Looking to learn and work with **BigQuery** and **AWS** for working with big data.
 
 ---
 
